@@ -50,7 +50,7 @@ class CharacterContainer {
             const data = await response.json();
             
             Object.defineProperty(data, "love", {
-                set(value) {
+                set love(value) {
                     if (typeof value === "number") {
                         this._love = value;
 

@@ -1,4 +1,5 @@
 import { stats } from "./stats.js";  
+import { character_container } from "./globals.js";
 
 /*
     HOW TO USE: import this in main.js and nowhere else.
@@ -52,3 +53,17 @@ for (const stat_name of stats.keys()) {
         }
     });
 }
+
+for (const character_name of character_container.get_all_character_names()) {
+    document.addEventListener(`${character_name}_love`, (event) => {
+        switch (character_name) {
+            case "Benjamin Netanyahu":
+                if (event.detail.value <= -100) {
+                    console.log("trigger netneyau rage ending");
+                } else if (event.detail.value >= 100) {
+                    console.log("trigger netneyau love ending");
+                }
+                break;
+        }
+    });
+} // WIP but this is the general idea of how to trigger character specific events based on their love stat. Just add more cases for each character and their respective endings.
