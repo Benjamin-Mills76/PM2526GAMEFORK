@@ -5,7 +5,21 @@ const template_dialogue_box = document.getElementsByClassName('dialogue_box')[0]
 
 // every added dialogue json needs to be in here
 const dialogue_list = [
-    "yahu_intro_dialogue.json"
+    "yahu_intro_dialogue.json",
+    "john_b_politics2.json",
+    "john_b_politics1.json",
+    "forwolk_q_splont_proposal.json",
+    "forwolk_q_splont_hate3.json",
+    "forwolk_q_splont_hate2.json",
+    "forwolk_q_splont_hate1.json",
+    "forwolk_q_splont3.json",
+    "forwolk_q_splont2.json",
+    "forwolk_q_splont1.json",
+    "bart_simpson_propose.json",
+    "bart_simpson_love1.json",
+    "bart_simpson3.json",
+    "bart_simpson2.json",
+    "bart_simpson1.json",
 ]
 
 // dialogue manager class to store all dialogue boxes for characters as well as jsons and provide functions to access them and run conversation
@@ -256,7 +270,6 @@ class Dialogue {
                         keys.forEach(stat => {
                             // updates stats based on the stats_impact object in the dialogue json for that option
                             stats[stat].value = stats[stat].value + values[keys.indexOf(stat)];
-                            console.log(stats[stat].value);
                         });
                     }
 
