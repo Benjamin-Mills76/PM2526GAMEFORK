@@ -1,0 +1,54 @@
+{
+    "1": {
+        "prompt": "*A man skates into the alley and does a trick on his board, he walks up to you and slowly takes off his sunglasses in a 40 year old manner, because he’s 40 years old.*"
+    }, 
+    "2": {   
+        "prompt": "Yo carumda! (legally distinct catchphrase) I’m here for a potion that can really get my energy levels up, y’know? The type of liquid that’ll have me bouncing off the walls for days, you have that?",
+        "options": [
+            {
+                "text": "You’re a loser chud lol",
+                "extended_response": "Huh… Bart Simpson? More like CHUD Simpson… You loser.",
+                "response": "*Bart laughs, and then starts coughing due to the smoke in his lungs* Ha! That’s a good one, I’ve never been insulted at a potion store before, but I think it shows you don’t care about stupid manners or whatever, I like that… I’ll buy a potion.",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "bart_simpson": 10
+                }
+            },
+            {
+                "text": "Of course sir! *In a corporate manner*",
+                "extended_response": "Good afternoon sir, of course we’ll get a potion for you! Just wait here and we’ll have it ready in a second.",
+                "response": "*Bart cringes* Oh, you’re one of THOSE people… Why do you gotta be so LAME and upright and polite?? You’re a lame-o and a dork, consume my pants (legally distinct catchphrase), loser!",
+                "stats_impact": {
+                    "gambling_anxiety": -1
+                },
+                "character_love_impact": {
+                    "bart_simpson": -5
+                }
+            },
+            {
+                "text": "Uh, yeah I think…",
+                "extended_response": "Huh? Yeah, I think we should have something somewhere.",
+                "response": "*Bart nods* Rock on dude… ",
+            "stats_impact": {
+                    "gambling_anxiety": 2
+                },
+                "character_love_impact": {
+                    "bart_simpson": 5
+                }
+            },
+            {
+                "text":"*Punch Bart*",
+                "extended_response": "*You punch Bart in the face and then insult him with speech that probably makes this incident some kind of a hate crime.*",
+                "response": "*Bart stumbles back and puts his hand over his injured nose* Dude what the heck! That’s way past uncool man! I like a rule-breaker but THIS is wayyy too much dude… You WILL be hearing from my lawyer… ",
+                "stats_impact": {
+                    "gambling_anxiety": -3
+                },
+                "character_love_impact": {
+                    "bart_simpson": -10
+                }
+            }
+        ]
+    }
+}
