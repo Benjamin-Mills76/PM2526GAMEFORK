@@ -7,22 +7,46 @@
             {
                 "text": "Get outta here dude!",
                 "extended_response": "What, does this look like a potion shop? Freak you man. Get outta here dude. ",
-                "response": "Ooh, this one’s zesty! I think I’ll just take a potion. Like, without paying. Names Splont by the way. *Spores pour out of his pores, and the spores surround a potion and carry it to him as he leaves, without paying*"
+                "response": "Ooh, this one’s zesty! I think I’ll just take a potion. Like, without paying. Names Splont by the way. *Spores pour out of his pores, and the spores surround a potion and carry it to him as he leaves, without paying*",
+                "stats_impact": {
+                    "gambling_anxiety": 2
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 5
+                }
             },
             {
                 "text": "Any specific elixir?",
                 "extended_response": "Uh… Could you specify which elixir?",
-                "response": "*he stares blankly, blinks, and then turns around and leaves after straining his brain too much*"
+                "response": "*he stares blankly, blinks, and then turns around and leaves after straining his brain too much*",
+                "stats_impact": {
+                    "gambling_anxiety": 0
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 5
+                }
             },
             {
                 "text": "Yes, it is in stock",
                 "extended_response": "Ah, yes, we DO have an elixir",
-                "response": "Sweet, man. Consider yourself a friendgus of the fungus. My names Splont, by the way."
+                "response": "Sweet, man. Consider yourself a friendgus of the fungus. My names Splont, by the way.",
+                "stats_impact": {
+                    "gambling_anxiety": 2
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 8
+                }
             },
             {
                 "text":"Huh… What…",
                 "extended_response": " Guhhhh… Who am I…?  Why am I here…? Who are you?",
-                "response": "dude.. I dunno either dude.. That’s really deep bro… I like you."
+                "response": "dude.. I dunno either dude.. That’s really deep bro… I like you.",
+                "stats_impact": {
+                    "gambling_anxiety": 1
+                },
+                "character_love_impact": {
+                    "forwolk_q_splont": 10
+                }
             }
         ]
     }
