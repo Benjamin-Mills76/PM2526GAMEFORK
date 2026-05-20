@@ -7,7 +7,7 @@
         "options": [
             {
                 "text": "I don’t like people from your party…",
-                "playertext": " Uh… Sorry, but I’m from the Gleek Party, and you’re a traitorous Glupshittocrat, get out of here before I take matters into my own hands.",
+                "extended_response": "Uh… Sorry, but I’m from the Gleek Party, and you’re a traitorous Glupshittocrat, get out of here before I take matters into my own hands.",
                 "response": "Excuse me? That violates section B502 of the Millard Fillmore clause of the SBIDTWSDBOPIIYGWIS (So Basically I Don’t Think We Should Discriminate Based On Party Identification If You Get What I’m Saying) act of 1736! I WILL be sending my lawyers.",
                 "stats_impact": {
                     "gambling_anxiety": -3
@@ -28,7 +28,7 @@
             },
             {
                 "text": "*Glaze him and give the potion*",
-                "playertext": " O-oh! Yes of course Mr. Politics! You’re a really admirable patriot and I’ll whip you up a real good potion sir!",
+                "extended_response": " O-oh! Yes of course Mr. Politics! You’re a really admirable patriot and I’ll whip you up a real good potion sir!",
                 "response": "Oh, I’m sincerely flattered, I guess I am pretty admirable when it boils down to it, ignoring the stock fraud, destruction of Earth, lobbing that tomato at my ex-wife’s face which caused her to fall into the lake and drown. But we’re all human, are we not? Oh, uh, no, I guess we aren’t actually, there’s a lot of non-human species here…",
                 "stats_impact": {
                     "gambling_anxiety": 1
