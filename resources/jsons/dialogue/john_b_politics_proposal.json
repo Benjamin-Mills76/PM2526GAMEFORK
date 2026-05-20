@@ -7,12 +7,12 @@
         "options": [
             {
                 "text": "Yes",
-                "playertext": "Oh my goodness! Of course John B. Politics! It’d be an honor to live the rest of my life with an old corrupt career politician!",
+                "extended_response": "Oh my goodness! Of course John B. Politics! It’d be an honor to live the rest of my life with an old corrupt career politician!",
                 "response": "Oh, gee wilikers! I feel like a spring chicken! I haven’t had a date since 1793! I’ll cherish you for the rest of my public career, until I remarry! Now come on with me to live in outer space on my cool giant laser spaceship funded by taxpayer revenue!"
             },
             {
                 "text": "no",
-                "playertext": "Oh… I’m flattered, but I see you more as my local elected representative.",
+                "extended_response": "Oh… I’m flattered, but I see you more as my local elected representative.",
                 "response": "*Politics looks at you with a small tear forming in his left eye* Oh, well… If that’s how it is then… I understand. There’s just no place left in the modern world for 300+ year old male career politicians anymore… I’m such a dumb baka chud, learned that one from the internets by the way... *Politics slowly walks out the door, getting one last glimpse of you before leaving forever…*"
             }
         ]
