@@ -7,10 +7,12 @@
         "options": [
             {
                 "text": "Hell no!",
+                "extended_response": "Wtf (What the freak) no.",
                 "response": "Oh… I see… *He buys a numbing potion and stumbles out of the store*"
             },
             {
                 "text": "Oh my god yes! (end game)",
+                "extended_response": "Yes, of course! My lovable spore emitting shroom!",
                 "response": "Hell yes…"
             }
         ]
