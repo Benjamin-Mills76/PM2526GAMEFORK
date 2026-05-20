@@ -7,7 +7,7 @@
         "options": [
             {
                 "text": "*press the button*",
-                "playertext": "*You press the button, and in the distance you can see a giant disco ball launch out of a government facility. You watch as its boosters engage, and it thrusts itself into the distance*",
+                "extended_response": "*You press the button, and in the distance you can see a giant disco ball launch out of a government facility. You watch as its boosters engage, and it thrusts itself into the distance*",
                 "response": "Wow… It really is beautiful, isn’t it? *He wipes a single tear from his eye* I knew I liked you…",
                 "stats_impact": {
                     "gambling_anxiety": 2
@@ -18,7 +18,7 @@
             },
             {
                 "text": "What???",
-                "playertext": "Wait, what? Why are we launching a boogie bomb at Gloopistan?",
+                "extended_response": "Wait, what? Why are we launching a boogie bomb at Gloopistan?",
                 "response": "Oh, you know. *He then turns around and speed-walks out of the store without an explanation*",
                 "stats_impact": {
                     "gambling_anxiety": 0
@@ -29,7 +29,7 @@
             },
             {
                 "text": "ts is a potion store",
-                "playertext": " Listen, I’m very flattered, but we sell potions here. Are you gonna loiter around or are you gonna buy something?",
+                "extended_response": " Listen, I’m very flattered, but we sell potions here. Are you gonna loiter around or are you gonna buy something?",
                 "response": "*Politics’ face blushes red* Oh, uh, yes, of course! Yeah I was gonna buy that potion, right there. *He takes a random potion and then leaves*",
                 "stats_impact": {
                     "gambling_anxiety": 0
